@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "TGPC Info Hub",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -11,92 +11,82 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Product Links",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Overview",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "product-links"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Products",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "product-links/academy-packages",
+              "product-links/mentoring-block",
+              "product-links/bcn-retreat"
             ]
           }
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "SOPs",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Standard Operating Procedures",
             "pages": [
-              "api-reference/introduction"
+              "sops/index"
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "Team Process",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "sops/onboarding",
+              "sops/security"
+            ]
+          },
+          {
+            "group": "Client Management",
+            "pages": [
+              "sops/call-handling",
+              "sops/payment-handling",
+              "sops/calendly-procedures"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Calendly Links",
+        "groups": [
+          {
+            "group": "Calendly",
+            "pages": [
+              "calendly-links/index"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Tech Stack",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": [
+              "tech-stack"
             ]
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg"
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
-    }
+    "links": []
   },
   "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
-    }
+    "socials": {}
   }
 }
