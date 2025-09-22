@@ -50,7 +50,8 @@
             "pages": [
               "sops/call-handling",
               "sops/payment-handling",
-              "sops/calendly-procedures"
+              "sops/calendly-procedures",
+              "sops/spinabt"
             ]
           }
         ]
