@@ -1,0 +1,93 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "TGPC Info Hub",
+  "colors": {
+    "primary": "#16A34A",
+    "light": "#07C983",
+    "dark": "#15803D"
+  },
+  "favicon": "/favicon.svg",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Product Links",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": [
+              "product-links"
+            ]
+          },
+          {
+            "group": "Products",
+            "pages": [
+              "product-links/academy-packages",
+              "product-links/mentoring-block",
+              "product-links/bcn-retreat"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "SOPs",
+        "groups": [
+          {
+            "group": "Standard Operating Procedures",
+            "pages": [
+              "sops/index"
+            ]
+          },
+          {
+            "group": "Team Process",
+            "pages": [
+              "sops/onboarding",
+              "sops/security"
+            ]
+          },
+          {
+            "group": "Client Management",
+            "pages": [
+              "sops/call-handling",
+              "sops/payment-handling",
+              "sops/calendly-procedures",
+              "sops/spinabt"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Calendly Links",
+        "groups": [
+          {
+            "group": "Calendly",
+            "pages": [
+              "calendly-links/index"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Tech Stack",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": [
+              "tech-stack"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "navbar": {
+    "links": []
+  },
+  "footer": {
+    "socials": {}
+  }
+}

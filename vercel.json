@@ -1,0 +1,5 @@
+{
+  "buildCommand": "echo 'Mintlify docs - no build required'",
+  "outputDirectory": "docs",
+  "installCommand": "echo 'No install required'"
+}
