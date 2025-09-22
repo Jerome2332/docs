@@ -1,5 +1,11 @@
 {
-  "buildCommand": "echo 'Mintlify docs - no build required'",
-  "outputDirectory": "docs",
-  "installCommand": "echo 'No install required'"
+  "buildCommand": "echo 'No build required'",
+  "outputDirectory": ".",
+  "installCommand": "echo 'No install required'",
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/index.html"
+    }
+  ]
 }
