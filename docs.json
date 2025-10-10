@@ -24,6 +24,7 @@
             "pages": [
               "product-links/academy-packages",
               "product-links/mentoring-block",
+              "product-links/business-in-a-box",
               "product-links/bcn-retreat"
             ]
           }
@@ -57,12 +58,25 @@
         ]
       },
       {
-        "tab": "Useful Links",
+        "tab": "Resources",
         "groups": [
           {
-            "group": "Useful Links",
+            "group": "External Links",
             "pages": [
-              "calendly-links/index"
+              "calendly-links/index",
+              "social-links/index",
+              "youtube-playlists/index",
+              "free-resources/index"
+            ]
+          },
+          {
+            "group": "Free Webinars",
+            "pages": [
+              "webinars/index",
+              "webinars/deal-sourcing",
+              "webinars/flipping",
+              "webinars/barcelona-retreat",
+              "webinars/ypn-webinars"
             ]
           }
         ]
@@ -88,6 +102,12 @@
     "links": []
   },
   "footer": {
-    "socials": {}
+    "socials": {
+      "linkedin": "https://uk.linkedin.com/in/susannahcole",
+      "facebook": "https://www.facebook.com/SusannahColeTGPC",
+      "instagram": "https://www.instagram.com/susannahcoleuk/",
+      "x": "https://x.com/SusannahColeUK",
+      "youtube": "https://www.youtube.com/user/goodpropertycompany"
+    }
   }
 }
