@@ -82,6 +82,25 @@
         ]
       },
       {
+        "tab": "Training Documents",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": [
+              "training-documents/index"
+            ]
+          },
+          {
+            "group": "Product Training",
+            "pages": [
+              "training-documents/121-mentoring-training",
+              "training-documents/academy-product-training",
+              "training-documents/barcelona-retreat-training"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "Tech Stack",
         "groups": [
           {
