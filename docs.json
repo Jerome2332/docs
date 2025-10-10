@@ -69,16 +69,15 @@
               "free-resources/index"
             ]
           },
-          {
-            "group": "Free Webinars",
-            "pages": [
-              "webinars/index",
-              "webinars/deal-sourcing",
-              "webinars/flipping",
-              "webinars/barcelona-retreat",
-              "webinars/ypn-webinars"
-            ]
-          }
+              {
+                "group": "Free Webinars",
+                "pages": [
+                  "webinars/index",
+                  "webinars/deal-sourcing",
+                  "webinars/flipping",
+                  "webinars/ypn-webinars"
+                ]
+              }
         ]
       },
       {
