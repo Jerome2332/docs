@@ -47,7 +47,7 @@ The documentation is organized into four main tabs:
 ## 🔧 Content Management
 
 ### **High-Priority Updates**
-- **Webinar schedules** - Update monthly as sessions complete
+- **Webinar schedules** - ✅ **AUTOMATED** (Daily removal of outdated webinars at 1 AM UTC)
 - **Product pricing** - Update immediately when prices change
 - **Free resources** - Add new resources quarterly
 - **Social media links** - Update when handles change
@@ -90,6 +90,17 @@ The documentation is organized into four main tabs:
 2. **Resources > Free Resources** - Lead magnets and conversion tools
 3. **SOPs > Client Management** - Customer service procedures
 
+## 🤖 Automation Systems
+
+### **Webinar Schedule Automation**
+- **Daily Updates:** Automatically removes outdated webinars at 1:00 AM UTC
+- **Multi-File Sync:** Updates 5+ documentation files consistently  
+- **Zero Maintenance:** No manual intervention required
+- **Git Integration:** Automatic commits and deployments
+- **Current Status:** 26 webinars scheduled through December 2025
+
+**Files:** `automation/webinar-schedule.json`, `automation/update-webinars.js`, `.github/workflows/update-webinars.yml`
+
 ## 🔗 Key External Integrations
 
 - **Stripe Payments** - Integrated in mentoring programs
@@ -97,6 +108,7 @@ The documentation is organized into four main tabs:
 - **YouTube** - 3 educational playlists with learning paths
 - **Webinar Platforms** - Zoom registration links
 - **Free Resources** - 13 lead magnets with direct links
+- **GitHub Actions** - Automated webinar schedule management
 
 ## 📈 Analytics & Performance
 

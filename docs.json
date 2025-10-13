@@ -19,15 +19,14 @@
               "product-links"
             ]
           },
-          {
-            "group": "Products",
-            "pages": [
-              "product-links/academy-packages",
-              "product-links/mentoring-block",
-              "product-links/business-in-a-box",
-              "product-links/bcn-retreat"
-            ]
-          }
+              {
+                "group": "Products",
+                "pages": [
+                  "product-links/academy-packages",
+                  "product-links/mentoring-block",
+                  "product-links/bcn-retreat"
+                ]
+              }
         ]
       },
       {
@@ -95,6 +94,17 @@
               "training-documents/121-mentoring-training",
               "training-documents/academy-product-training",
               "training-documents/barcelona-retreat-training"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Tags & Notes",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": [
+              "tags-notes/index"
             ]
           }
         ]
