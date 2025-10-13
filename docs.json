@@ -11,26 +11,56 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Product Links",
+        "tab": "🏠 Getting Started",
         "groups": [
           {
-            "group": "Overview",
+            "group": "Hub Overview",
             "pages": [
-              "product-links"
+              "hub/index"
             ]
           },
-              {
-                "group": "Products",
-                "pages": [
-                  "product-links/academy-packages",
-                  "product-links/mentoring-block",
-                  "product-links/bcn-retreat"
-                ]
-              }
+          {
+            "group": "Navigation & Guides",
+            "pages": [
+              "hub/navigation-guide",
+              "sops/navigation-guide"
+            ]
+          }
         ]
       },
       {
-        "tab": "SOPs",
+        "tab": "📈 Sales & Marketing",
+        "groups": [
+          {
+            "group": "Products & Pricing",
+            "pages": [
+              "product-links",
+              "product-links/academy-packages",
+              "product-links/mentoring-block",
+              "product-links/bcn-retreat"
+            ]
+          },
+          {
+            "group": "Free Resources & Lead Generation",
+            "pages": [
+              "free-resources/index",
+              "webinars/index",
+              "webinars/deal-sourcing",
+              "webinars/flipping",
+              "webinars/ypn-webinars"
+            ]
+          },
+          {
+            "group": "External Marketing",
+            "pages": [
+              "social-links/index",
+              "youtube-playlists/index"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "🔧 Operations",
         "groups": [
           {
             "group": "Standard Operating Procedures",
@@ -39,70 +69,37 @@
             ]
           },
           {
-            "group": "Team Process",
+            "group": "Team Operations",
             "pages": [
               "sops/onboarding",
               "sops/security"
             ]
           },
           {
-            "group": "Client Management",
+            "group": "Sales & Lead Management",
             "pages": [
+              "sops/spinabt",
               "sops/call-handling",
-              "sops/payment-handling",
-              "sops/calendly-procedures",
-              "sops/spinabt"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Resources",
-        "groups": [
-          {
-            "group": "External Links",
-            "pages": [
-              "calendly-links/index",
-              "social-links/index",
-              "youtube-playlists/index",
-              "free-resources/index"
-            ]
-          },
-              {
-                "group": "Free Webinars",
-                "pages": [
-                  "webinars/index",
-                  "webinars/deal-sourcing",
-                  "webinars/flipping",
-                  "webinars/ypn-webinars"
-                ]
-              }
-        ]
-      },
-      {
-        "tab": "Training Documents",
-        "groups": [
-          {
-            "group": "Overview",
-            "pages": [
-              "training-documents/index"
+              "sops/calendly-procedures"
             ]
           },
           {
-            "group": "Product Training",
+            "group": "Client Services",
             "pages": [
+              "sops/payment-handling"
+            ]
+          },
+          {
+            "group": "Training & Documentation",
+            "pages": [
+              "training-documents/index",
               "training-documents/121-mentoring-training",
               "training-documents/academy-product-training",
               "training-documents/barcelona-retreat-training"
             ]
-          }
-        ]
-      },
-      {
-        "tab": "Tags & Notes",
-        "groups": [
+          },
           {
-            "group": "Overview",
+            "group": "CRM & Data Management",
             "pages": [
               "tags-notes/index"
             ]
@@ -110,10 +107,16 @@
         ]
       },
       {
-        "tab": "Tech Stack",
+        "tab": "🔗 Resources",
         "groups": [
           {
-            "group": "Overview",
+            "group": "Quick Access Links",
+            "pages": [
+              "calendly-links/index"
+            ]
+          },
+          {
+            "group": "System & Technical",
             "pages": [
               "tech-stack"
             ]
