@@ -18,13 +18,6 @@
             "pages": [
               "hub/index"
             ]
-          },
-          {
-            "group": "Navigation & Guides",
-            "pages": [
-              "hub/navigation-guide",
-              "sops/navigation-guide"
-            ]
           }
         ]
       },
