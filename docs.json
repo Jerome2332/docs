@@ -11,107 +11,12 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "🏠 Getting Started",
+        "tab": "Home",
         "groups": [
           {
-            "group": "Hub Overview",
+            "group": "Getting Started",
             "pages": [
-              "hub/index"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "📈 Sales & Marketing",
-        "groups": [
-          {
-            "group": "Products & Pricing",
-            "pages": [
-              "product-links",
-              "product-links/academy-packages",
-              "product-links/mentoring-block",
-              "product-links/bcn-retreat"
-            ]
-          },
-          {
-            "group": "Free Resources & Lead Generation",
-            "pages": [
-              "free-resources/index",
-              "webinars/index",
-              "webinars/deal-sourcing",
-              "webinars/flipping",
-              "webinars/ypn-webinars"
-            ]
-          },
-          {
-            "group": "External Marketing",
-            "pages": [
-              "social-links/index",
-              "youtube-playlists/index"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "🔧 Operations",
-        "groups": [
-          {
-            "group": "Standard Operating Procedures",
-            "pages": [
-              "sops/index"
-            ]
-          },
-          {
-            "group": "Team Operations",
-            "pages": [
-              "sops/onboarding",
-              "sops/security"
-            ]
-          },
-          {
-            "group": "Sales & Lead Management",
-            "pages": [
-              "sops/spinabt",
-              "sops/call-handling",
-              "sops/calendly-procedures"
-            ]
-          },
-          {
-            "group": "Client Services",
-            "pages": [
-              "sops/payment-handling"
-            ]
-          },
-          {
-            "group": "Training & Documentation",
-            "pages": [
-              "training-documents/index",
-              "training-documents/121-mentoring-training",
-              "training-documents/academy-product-training",
-              "training-documents/barcelona-retreat-training"
-            ]
-          },
-          {
-            "group": "CRM & Data Management",
-            "pages": [
-              "tags-notes/index"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "🔗 Resources",
-        "groups": [
-          {
-            "group": "Quick Access Links",
-            "pages": [
-              "calendly-links/index"
-            ]
-          },
-          {
-            "group": "System & Technical",
-            "pages": [
-              "tech-stack"
+              "index"
             ]
           }
         ]
@@ -126,12 +31,6 @@
     "links": []
   },
   "footer": {
-    "socials": {
-      "linkedin": "https://uk.linkedin.com/in/susannahcole",
-      "facebook": "https://www.facebook.com/SusannahColeTGPC",
-      "instagram": "https://www.instagram.com/susannahcoleuk/",
-      "x": "https://x.com/SusannahColeUK",
-      "youtube": "https://www.youtube.com/user/goodpropertycompany"
-    }
+    "socials": {}
   }
 }
